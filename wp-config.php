@@ -54,9 +54,11 @@ define('AUTH_SALT',        ',J,:f?^~9]E_&*hT3q2i(Xr7n3wSKPewiAz<5/X&:zsItroI32A3
 define('SECURE_AUTH_SALT', 'q$Svi7A,g32o!~F3&HELab)],34OSU$4mJK|N2+afm[elZb:%|jEaFJxxvO+]!Vm');
 define('LOGGED_IN_SALT',   'y)|i9JD]!jSq*X+t(ZGd(jzp]*(Xn{IUQ75;5[{Kl+|@mvH^pCYVG}XW5U<(pu<q');
 define('NONCE_SALT',       ' IqE:|A(t}oGP8x<|,>F;y2S4=Az5kK}{qA3L (UM)+2<K]Q-d5$I/?4M`u)]NT;');
-define('WP_HOME','http://blueninja.decagone.net'); 
-define('WP_SITEURL','http://blueninja.decagone.net'); 
 
+/**
+ * define('WP_HOME','http://blueninja.decagone.net'); 
+define('WP_SITEURL','http://blueninja.decagone.net'); 
+*/
 /**#@-*/
 
 /**
